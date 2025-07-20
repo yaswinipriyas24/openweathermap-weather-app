@@ -72,6 +72,4 @@ Run the script from your terminal:
 ```bash
 python weather_cli.py <city_name>
 
-## 🤝 Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
